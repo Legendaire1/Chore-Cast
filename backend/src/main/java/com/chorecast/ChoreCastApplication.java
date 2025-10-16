@@ -1,4 +1,4 @@
-package com.chorecast.controller;
+package com.chorecast;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
